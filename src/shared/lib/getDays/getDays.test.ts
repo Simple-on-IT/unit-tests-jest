@@ -5,10 +5,8 @@ jest.mock('dayjs', () => {
   return {
     __esModule: true,
     default: jest.fn(() => ({
-      startOf: jest.fn(() => ({
-        day: () => 5,
-      })),
-      daysInMonth: jest.fn(() => 30),
+      // startOf: 
+      // daysInMonth: 
     })),
   };
 });
