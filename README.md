@@ -16,5 +16,5 @@
 * `npm run test` - установка библиотек
 
 ## Дополнительные материалы:
-Документация - https://jestjs.io/
-Видео - 
+Документация - https://jestjs.io/  
+Видео - https://youtube.com/shorts/9bo_cpm34iY?feature=share
